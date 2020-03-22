@@ -5,3 +5,7 @@
 # Maze Solver
 ## Example
 ![](maze_1_solved.png)
+
+# A* Visualiser
+## Example
+![](a_star.png)
