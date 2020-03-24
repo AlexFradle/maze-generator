@@ -19,4 +19,4 @@
 * Press RETURN to solve
 * Press R to reset
 ## Example
-![](a_star.png)
+![](a_star.gif)
