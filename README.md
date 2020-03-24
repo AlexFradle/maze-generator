@@ -16,6 +16,8 @@
 # A* Visualiser
 ## Instructions
 * Run `a_star_visualise.py`
+* Press S to place start node
+* Press E to place end node
 * Press RETURN to solve
 * Press R to reset
 ## Example
